@@ -1,0 +1,154 @@
+
+
+@font-face {
+	font-family: "Minecraft-font";
+	src: url('/Assets/fonts/Minecraft.ttf');
+}
+body{
+    background: url(https://www.numerama.com/wp-content/uploads/2019/12/capture-decran-2019-12-09-a-17-14-36.png);
+    background-repeat: no-repeat, repeat;
+}
+.logo{
+    width: 35%;
+    display: block;
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button1{
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 45px;
+    background-color: grey;
+    color: white;
+}
+
+.button1:hover{
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 45px;
+    background-color: grey;
+    color: white;
+    border:3px solid rgb(241, 241, 241);
+    cursor: pointer;
+    
+}
+
+.button2{
+    margin-top: 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 45px;
+    background-color: grey;
+    color: white;
+}
+
+.button2:hover{
+    cursor: pointer;
+    margin-top: 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 45px;
+    background-color: grey;
+    color: white;
+    border:3px solid rgb(241, 241, 241);
+}
+
+.button3{
+    margin-top: 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 45px;
+    background-color: grey;
+    color: white;
+}
+
+.button3:hover{
+    cursor: pointer;
+    margin-top: 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 45px;
+    background-color: grey;
+    color: white;
+    border:3px solid rgb(241, 241, 241);
+}
+
+.options-btn{
+    margin-top: 1%;
+    display: block;
+    margin-left: 450px;
+    margin-right: auto;
+    width: 218px;
+    height: 45px;
+    background-color: grey;
+    color: white;
+}
+
+.options-btn:hover{
+    cursor: pointer;
+    margin-top: 1%;
+    display: block;
+    margin-left: 450px;
+    margin-right: auto;
+    width: 218px;
+    height: 45px;
+    background-color: grey;
+    color: white;
+    border:3px solid rgb(241, 241, 241);
+}
+
+.quit-btn{
+    margin-top: -3.39%;
+    display: block;
+    margin-left: auto;
+    margin-right: 450px;
+    width: 218px;
+    height: 45px;
+    background-color: grey;
+    color: white;
+}
+
+.quit-btn:hover{
+    cursor: pointer;
+    margin-top: -3.39%;
+    display: block;
+    margin-left: auto;
+    margin-right: 450px;
+    width: 218px;
+    height: 45px;
+    background-color: grey;
+    color: white;
+    border:3px solid rgb(241, 241, 241);
+}
+
+
+h3{
+    text-align: center;
+    margin-top: 1.7%;
+    font-size: 18px;
+    font-family: "Minecraft-font", Helvetica, Arial, sans-serif;
+}
+
+h4{
+    text-align: left;
+    margin-top: 10%;
+    font-size: 8px;
+    font-family: "Minecraft-font", Helvetica, Arial, sans-serif;
+    color: white;
+}
